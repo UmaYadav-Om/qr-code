@@ -1,0 +1,14 @@
+.uma {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    /* flex-direction: column; */
+    gap: 10px;
+    height: 100vh;
+}
+
+.reuslt {
+font-size: 20px;
+margin-bottom: 30px;
+
+}
