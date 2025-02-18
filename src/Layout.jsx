@@ -10,8 +10,6 @@ const Layout = () => {
    <div>
 <Navigation />
 
-<p>Hello</p>
-
 <Routes>
 <Route path='/generate' element={<QrCodeGenerator />} />
 <Route path='/scan' element={<QrcodeScaner />} />
